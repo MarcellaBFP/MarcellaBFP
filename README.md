@@ -1,4 +1,4 @@
-## Olá! Eu sou a Marcella Bueno 
+## Olá! Eu sou a Marcella Bueno :)
 🖥️ Hoje trabalho com front-end
 
 📲 Estudando React Native
