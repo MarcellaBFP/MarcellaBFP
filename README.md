@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Marcella Bueno :)
-🖥️ Hoje trabalho como FullStack(JavaScript, ReactJs, NodeJs e Salesforce Commerce Cloud)
+🖥️ Hoje trabalho como Full Stack(JavaScript, ReactJs, NodeJs e Salesforce Commerce Cloud)
 
 📲 Estudando React Native
 
@@ -18,7 +18,6 @@
   <img align="center" alt="Marcella-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Marcella-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
- <img align="right" alt="Marcella-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/7sXGy9PX68wrYgP2vPbyn670AWtKPFYfP1S7liNICss/https/cdn.picrew.me/shareImg/org/202212/338224_cqCNRwvs.png">
   
   ##
  
