@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Marcella Bueno :)
-🖥️ Hoje trabalho com front-end
+🖥️ Hoje trabalho como FullStack(JavaScript, ReactJs, NodeJs e Salesforce Commerce Cloud)
 
 📲 Estudando React Native
 
