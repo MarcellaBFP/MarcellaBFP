@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Marcella Bueno :)
-🖥️ Hoje trabalho como Full Stack(JavaScript, ReactJs, NodeJs e Salesforce Commerce Cloud)
+🖥️ Hoje trabalho como Full Stack(JavaScript, ReactJs, NodeJs, Salesforce Commerce Cloud e Java)
 
 📲 Estudando React Native
 
