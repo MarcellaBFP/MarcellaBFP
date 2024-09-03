@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Marcella Bueno :)
 🖥️ Hoje trabalho como Full Stack(JavaScript, ReactJs, NodeJs, Salesforce Commerce Cloud e Java)
 
-📲 Estudando React Native
+📲 DevOps
 
 <div align="center">
   <a href="https://github.com/MarcellaBFP">
